@@ -27,7 +27,12 @@ After installation, you can run the manager from anywhere using:
 ```bash
 wireguard_manager
 ```
+## Screen Short
 
+![WireGuard Manager Main Menu](assets/1.png)
+![WireGuard Manager Main Menu](assets/2.png)
+![WireGuard Manager Main Menu](assets/3.png)
+![WireGuard Manager Main Menu](assets/4.png)
 ---
 
 ## 🧱 Requirements
@@ -72,10 +77,7 @@ After installation, verify the command:
 ```bash
 wireguard_manager
 ```
-![WireGuard Manager Main Menu](https://github.com/nazmul-islam21/wireguard-access-manager/assets/1.png)
-![WireGuard Manager Main Menu](https://github.com/nazmul-islam21/wireguard-access-manager/assets/2.png)
-![WireGuard Manager Main Menu](https://github.com/nazmul-islam21/wireguard-access-manager/assets/3.png)
-![WireGuard Manager Main Menu](https://github.com/nazmul-islam21/wireguard-access-manager/assets/4.png)
+
 
 
 You should see the WireGuard Access Manager main menu.
