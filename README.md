@@ -1,6 +1,6 @@
 # wireguard-access-manager
 Fine-grained client access control and IP segmentation for maximum wireguard VPN security.
-
+![WireGuard Manager Main Menu](assets/1.png)
 # 📦 Installation
 
 WireGuard Access Manager provides a secure and user-isolated VPN configuration tool for Linux systems.
@@ -33,6 +33,7 @@ wireguard_manager
 ![WireGuard Manager Main Menu](assets/2.png)
 ![WireGuard Manager Main Menu](assets/3.png)
 ![WireGuard Manager Main Menu](assets/4.png)
+![WireGuard Manager Main Menu](assets/5.png)
 ---
 
 ## 🧱 Requirements
