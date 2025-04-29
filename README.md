@@ -6,6 +6,13 @@ Fine-grained client access control and IP segmentation for maximum wireguard VPN
 WireGuard Access Manager provides a secure and user-isolated VPN configuration tool for Linux systems.
 
 ---
+## Key Features:
+
+- Secure and user-isolated VPN configurations
+- Fine-grained client access control
+- IP segmentation for enhanced security
+- Easy installation with a single command
+
 
 ## ✅ Quick Install (Recommended)
 
