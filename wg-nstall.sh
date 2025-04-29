@@ -26,7 +26,7 @@ fi
 
 # 2. Download WireGuard Manager directly to /usr/local/bin
 echo "⬇️ Downloading WireGuard Manager..."
-sudo curl -sSLo "$TARGET_FILE" "https://raw.githubusercontent.com/${GITHUB_REPO}/main/wireguard_manager.sh"
+sudo curl -sSLo "$TARGET_FILE" "https://raw.githubusercontent.com/nazmul-islam21/wireguard-access-manager/refs/heads/main/wireguard_manager.sh"
 
 # 3. Set correct permissions
 sudo chmod +x "$TARGET_FILE"
